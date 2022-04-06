@@ -1,0 +1,19 @@
+.not-found{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    margin:3rem 0;
+}
+
+.btn{
+    text-decoration:underline;
+    color:blue;
+    /* width:150px;
+    padding:8px;
+    margin:20px 10px;
+    background:#4979ff;
+    border-radius:4px;
+    color:#fff;
+    text-align:center; */
+  }

@@ -1,0 +1,9 @@
+{
+    "eslint.format.enable": true,
+    "emmet.syntaxProfiles": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    }
+}
